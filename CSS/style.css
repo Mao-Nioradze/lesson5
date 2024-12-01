@@ -39,3 +39,92 @@
     padding-bottom: 69px;
     padding-left: 162px;
 }
+.whychooseus{
+    font-family: yellowtail;
+    font-size: 36px;
+    line-height: 44px;
+    color: #7EB693;
+    font-weight: 400;
+    margin-bottom: 6px;
+}
+h1{
+    font-family: roboto-medium;
+    font-size: 56px;
+    line-height: 64px;
+    color: #274C5B;
+    font-weight: 800;
+    width: 524px;
+    margin-bottom: 25px;
+}
+.description-p1{
+    font-size:sans-regular ;
+    font-size: 18px;
+    line-height: 26px;
+    color: #525C60;
+    width: 671px;
+    font-weight: 400;
+    margin-bottom: 24px;
+
+}
+.description-p{
+    font-size:sans-regular ;
+    font-size: 18px;
+    line-height: 26px;
+    color: #525C60;
+    width: 444px;
+    font-weight: 400;
+    margin-bottom: 24px;
+    padding-left: 60px;
+}
+.circle-icon{
+    width: 19px;
+    height: 19px;
+}
+.box-h3{
+    font-family: roboto-medium;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #274C5B;
+    margin-left: 8px;
+}
+.box-1{
+    display: flex;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    padding-left: 28px;
+    padding-right: 90px;
+    background-color: #ECECEC;
+    width: 340px;
+    margin-bottom: 16px;
+}
+.box-2{
+    display: flex;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    padding-left: 28px;
+    padding-right: 90px;
+    background-color: #ECECEC;
+    width: 340px;
+    margin-bottom: 16px;
+}
+.main-div{
+    display: flex;
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.main-photo{
+    border-radius:30px;
+}
+.hero-img{
+    margin-left: 51px;
+}
+.main-section{
+
+    background-color: #F9F8F8;
+    padding-top: 56px;
+    padding-left: 260px;
+    padding-right: 260px;
+}
