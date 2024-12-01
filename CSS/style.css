@@ -1,0 +1,41 @@
+.nav-link{
+    color: #274C5B;
+    
+}
+
+.nav-ul{
+    font-family: roboto-medium;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 700;
+    display: flex;
+    
+}
+.navigation{
+    display: flex;
+    
+
+}
+.nav-el-1{
+    margin-left: 150px;
+    padding-top: 15px;
+     
+}
+.nav-el{
+    margin-left: 40px;
+    padding-top: 15px;
+    
+}
+
+.main-logo{
+    display: flex;
+    
+}
+.header{
+    display: flex;
+}
+.header{
+    padding-top: 69px;
+    padding-bottom: 69px;
+    padding-left: 162px;
+}
