@@ -128,3 +128,64 @@ h1{
     padding-left: 260px;
     padding-right: 260px;
 }
+.policy{
+    background-color: #F9F8F8; 
+    padding-top: 90px;
+    padding-bottom: 190px;
+}
+.policy-h3{
+    font-family: roboto-medium;
+    font-size: 25px;
+    line-height: 32px;
+    color: #274C5B;
+    margin-bottom:20px ;
+    font-weight: 800;
+
+}
+.policy-p{
+    font-family: sans-regular;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #525C60;
+    width: 184px;
+    text-align: center;
+    padding-left: 18px;
+    
+
+}
+.policy-box-1{
+    background-color: #FFFFFF;
+    width: 257px;
+    height: 335px;
+    padding-left: 22px;
+    padding-top: 24px;
+}
+.policy-box-2{
+    background-color: #FFFFFF;
+    width: 257px;
+    height: 335px;
+    padding-left: 22px;
+    padding-top: 24px;
+}
+.policy-box-3{
+    background-color: #FFFFFF;
+    width: 257px;
+    height: 335px;
+    padding-left: 22px;
+    padding-top: 24px;
+}
+.policy-box-4{
+    background-color: #FFFFFF;
+    width: 257px;
+    height: 335px;
+    padding-left: 22px;
+    padding-top: 24px;
+}
+.policy-main{
+    display: flex;
+    width: 1115px;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+}
